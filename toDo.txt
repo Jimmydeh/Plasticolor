@@ -1,0 +1,17 @@
+//# 2 fill-in boxes for variables x and y
+//# confirm button
+//# output field
+//# 3 constants saved in memory (on pageload?) 
+  before executing the formula.
+//# logic that executes the formula according to input.
+
+
+// # Make value reset when doing new calculation.
+// # Round the result to one digit after ",".
+# Replace x-amount of output with weight of product. 
+  (6.5gr equals 590 - Apply rule of three)
+# Add % of regrind to the app
+# Style!
+# Make alternative option to spit out table in .xlsx
+  instead of defining % of regrind.
+  (if regrind then noSpit => giveResult, else spit.xlsx)
